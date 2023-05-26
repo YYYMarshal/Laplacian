@@ -1,0 +1,13 @@
+.idea
+__pycache__
+figures_add_couple_trees
+figures_add_forks_trees
+figures_main
+figures_observation
+figures_remove_couple_trees
+figures_remove_special_group_trees
+figures_target_trees
+graphml_add_couple_trees
+graphml_satisfy_laplacian_trees
+graphml_target_trees
+graphml_trees
